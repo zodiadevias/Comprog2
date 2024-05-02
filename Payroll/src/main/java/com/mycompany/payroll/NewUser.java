@@ -9,5 +9,5 @@ package com.mycompany.payroll;
  * @author ZodiaDevias
  */
 public class NewUser {
-    
+    System.out.println("aaa");
 }
